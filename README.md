@@ -1,2 +1,2 @@
 # Rstudy
-i study R language
+study R language
